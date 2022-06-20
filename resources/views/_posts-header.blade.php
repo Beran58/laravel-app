@@ -17,7 +17,7 @@
                     </button>
                 </x-slot>
 
-                <x-dropdown-item href="/example-app/server.php">All</x-dropdown-item>
+                <x-dropdown-item href="/">All</x-dropdown-item>
 
                 @foreach($categories as $category)
                     <x-dropdown-item
